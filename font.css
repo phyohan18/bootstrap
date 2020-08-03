@@ -1,0 +1,14 @@
+@font-face{
+	font-family: 'all';
+	src:url(font/alcester.ttf);
+}
+
+@font-face{
+	font-family:'logo';
+	src:url(font/InconsolataSemiCondensed-Regular.ttf);
+}
+
+@font-face{
+	font-family: 'text';
+	src:url(font/Inconsolata-VariableFont_wdth,wght.ttf);
+}
